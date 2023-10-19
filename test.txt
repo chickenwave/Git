@@ -5,4 +5,4 @@ abc
 def
 !!
 hot-fix  master
-hot-fix  master
+hot-fix hot-fix
